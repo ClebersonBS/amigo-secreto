@@ -4,6 +4,7 @@ Este é um projeto simples, porém divertido, realizado para organizar sorteios 
 
 
 -Funcionalidades
+
 O aplicativo permite que os usuários:
 Adicionem Nomes: Insiram os nomes dos participantes em uma lista.
 Visualizem a Lista: Vejam todos os nomes adicionados em tempo real na tela.
@@ -12,6 +13,7 @@ Sorteiem um Amigo: Realizem um sorteio aleatório com um único clique, exibindo
 
 
 -Como Usar
+
 Para usar a aplicação, basta seguir os passos abaixo:
 Digite o nome de um participante no campo de texto.
 Clique no botão "Adicionar".
@@ -20,6 +22,7 @@ Quando todos os nomes estiverem na lista, clique no botão "Sortear amigo" para 
 
 
 -Tecnologias Utilizadas
+
 HTML: Para a estruturação da página.
 CSS: Para a estilização e o design.
 JavaScript: Para toda a lógica de manipulação de dados e interação com a interface.
